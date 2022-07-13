@@ -2,11 +2,11 @@
 
 CNN结构：
 
-<img src="F:/University/大二下/人工智能综合实验/期中大作业/photos/CNN.png"  />
+<img src="res/CNN.png"  />
 
 ResNet结构：
 
-![](photos/ResNet18.png)
+![](res/ResNet18.png)
 
 | 网络模型 | 训练集错误率 | 测试集错误率 |
 | :------: | :----------: | :----------: |
