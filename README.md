@@ -1,5 +1,7 @@
 ### README
 
+数据集和训练好的模型可在release中下载
+
 CNN结构：
 
 <img src="res/CNN.png"  />
